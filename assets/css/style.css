@@ -5,11 +5,11 @@
 
 body {
     background-image: url(https://img.freepik.com/vector-premium/patrones-fisuras-vector-geometrico-dorado-sobre-fondo-blanco-ilustraciones-modernas-fondos-pantalla-volantes-cubiertas-banners-adornos-minimalistas_552457-439.jpg);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 .nosotros {
-    opacity: 85%;
+    opacity: 40%;
 }
 
 .card-img-top {
