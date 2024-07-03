@@ -1,6 +1,6 @@
 // Crear una función que permita validar todos los campos del formulario de
 // contacto al momento de hacer clic en el botón de procesamiento. Se debe indicar qué campos
-// están vacíos.
+// están vacíos. (Parte del ejercicio grupal 5 del módulo 2)
 
 // Alerta de ejemplo
 // alert('Bienvenido a nuestro sitio');
